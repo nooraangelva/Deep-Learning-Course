@@ -1,3 +1,11 @@
+# Data
+./Project/faces
+./'Excercise 4'/fashion_mnist_extracted
+./'Excercise 3'/data
+./'Excercise 2'/data
+./'excercise 1'/tutorial_scripts of lecture2
+./'excercise 1'/tutorial_scripts of lecture2.zip
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
