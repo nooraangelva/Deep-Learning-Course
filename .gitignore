@@ -1,10 +1,11 @@
 # Data
-./Project/faces
-./'Excercise 4'/fashion_mnist_extracted
-./'Excercise 3'/data
-./'Excercise 2'/data
-./'excercise 1'/tutorial_scripts of lecture2
-./'excercise 1'/tutorial_scripts of lecture2.zip
+Project/faces
+Excercise3/fashion_mnist_extracted
+Excercise3/data
+Excercise2/data
+Excercise1/tutorial_scripts_of_lecture2
+Excercise1/tutorial_scripts of lecture2.zip
+Excercise4/fashion_mnist_extracted
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
