@@ -6,7 +6,9 @@ Excercise2/data
 Excercise1/tutorial_scripts_of_lecture2
 Excercise1/tutorial_scripts of lecture2.zip
 Excercise4/fashion_mnist_extracted
-
+Excercise4/fashion_mnist_extracted.zip
+Project/img
+Project/checkpoint
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
